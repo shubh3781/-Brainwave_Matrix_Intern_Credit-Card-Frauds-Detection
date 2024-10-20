@@ -61,7 +61,7 @@ To run this project, follow the steps below:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shubh3781/Credit-Card-Frauds-Detection
+   git clone https://github.com/shubh3781/-Brainwave_Matrix_Intern_Credit-Card-Frauds-Detection
    cd Credit-Card-Fraud-Detection
    ```
 
